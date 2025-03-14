@@ -1,6 +1,6 @@
 {
   "repoURL": "https://github.com/coquinncecg/argo-hydrate.git",
-  "drySha": "e5987a1d760c40299daf2704115a713d15d8385e",
+  "drySha": "47da50d87541e8def972d9ddc427f58b2c33efb6",
   "commands": [
     "helm template . --name-template guestbook --include-crds"
   ]
