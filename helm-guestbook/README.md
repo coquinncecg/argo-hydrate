@@ -7,6 +7,6 @@ To hydrate the manifests in this repository, run the following commands:
 
 git clone https://github.com/coquinncecg/argo-hydrate.git
 # cd into the cloned directory
-git checkout 6c3cbe63dce5833c4729a381f5e349d8bc1043c6
+git checkout a92db683edc645fd2c6cb339f503b1fbaf0d27ba
 helm template . --name-template guestbook --include-crds
 ```

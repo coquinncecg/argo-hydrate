@@ -30,7 +30,7 @@ metadata:
     release: guestbook
   name: guestbook-helm-guestbook
 spec:
-  replicas: 1
+  replicas: 5
   revisionHistoryLimit: 3
   selector:
     matchLabels:
